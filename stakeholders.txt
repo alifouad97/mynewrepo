@@ -1,0 +1,10 @@
+stakeholders
+
+1-project team
+2-project sponsor
+3-team manager
+4-clients
+5-government
+6-shops
+7-community
+8-subcontracts
